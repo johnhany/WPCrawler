@@ -19,6 +19,10 @@ MySQL Connector/J 5.1.27
 
 下一次更新会加入统计每篇文章所使用的标签的功能
 
+可以在我的博客内阅读详细原理：
+
+http://johnhany.net/2013/11/web-crawler-using-java-and-mysql/
+
 =========
 
 a web crawler for single WordPress site
@@ -33,4 +37,10 @@ MySQL Connector/J 5.1.27
 
 Need XAMPP environment.
 
-The program assume that there is a database called "crawler" in your localhost with port 3306,
+The program assume that there is a database called "crawler" in your localhost with port 3306.
+
+Analyzing tags for each article will be added in the next update.
+
+You can read about this in my blog:
+
+http://johnhany.net/2013/11/web-crawler-using-java-and-mysql/
