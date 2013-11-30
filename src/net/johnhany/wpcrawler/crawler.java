@@ -32,7 +32,7 @@ public class crawler {
 		//connect the MySQL database
 		try {
 			Class.forName("com.mysql.jdbc.Driver");
-			String dburl = "jdbc:mysql://localhost:3306/crawler?useUnicode=true&characterEncoding=utf8";
+			String dburl = "jdbc:mysql://localhost:3306?useUnicode=true&characterEncoding=utf8";
 			conn = DriverManager.getConnection(dburl, "root", "");
 			System.out.println("connection built");
 		} catch (SQLException e) {
@@ -48,6 +48,27 @@ public class crawler {
 		int count = 0;
 		
 		if(conn != null) {
+			//create database and tables that will be needed
+			try {
+				sql = "CREATE DATABASE IF NOT EXISTS crawler";
+				stmt = conn.createStatement();
+				stmt.executeUpdate(sql);
+				
+				sql = "USE crawler";
+				stmt = conn.createStatement();
+				stmt.executeUpdate(sql);
+				
+				sql = "create table if not exists record (recordID int(5) not null auto_increment, URL text not null, crawled tinyint(1) not null, primary key (recordID)) engine=InnoDB DEFAULT CHARSET=utf8";
+				stmt = conn.createStatement();
+				stmt.executeUpdate(sql);
+				
+				sql = "create table if not exists tags (tagnum int(4) not null auto_increment, tagname text not null, primary key (tagnum)) engine=InnoDB DEFAULT CHARSET=utf8";
+				stmt = conn.createStatement();
+				stmt.executeUpdate(sql);
+			} catch (SQLException e) {
+				e.printStackTrace();
+			}
+			
 			//crawl every link in the database
 			while(true) {
 				//get page content of link "url"
