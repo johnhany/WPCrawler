@@ -1,0 +1,201 @@
+connection built
+executing request http://johnhany.net/
+http://johnhany.net/
+http://johnhany.net/tech-article/
+http://johnhany.net/tech-article/c-cpp/
+http://johnhany.net/tech-article/opengl/
+http://johnhany.net/tech-article/opencv/
+http://johnhany.net/tech-article/android/
+http://johnhany.net/tech-article/html5/
+http://johnhany.net/gallery/
+http://johnhany.net/gallery/painting/
+http://johnhany.net/gallery/cg/
+http://johnhany.net/gallery/photograph/
+http://johnhany.net/essay/
+http://johnhany.net/guestbook/
+http://johnhany.net/about/
+http://johnhany.net/2013/11/dft-based-text-rotation-correction/
+http://johnhany.net/tag/opencv-2/
+http://johnhany.net/tag/%e6%96%87%e6%9c%ac%e5%a4%84%e7%90%86/
+http://johnhany.net/2013/11/sweep-algorithm-for-segments-intersection/
+http://johnhany.net/tag/opengl-2/
+http://johnhany.net/tag/%e5%9b%be/
+http://johnhany.net/tag/%e7%ae%97%e6%b3%95/
+http://johnhany.net/tag/%e8%ae%a1%e7%ae%97%e5%87%a0%e4%bd%95/
+http://johnhany.net/2013/11/reventon-render-image/
+http://johnhany.net/tag/maya/
+http://johnhany.net/tag/%e5%bb%ba%e6%a8%a1/
+http://johnhany.net/2013/11/environment-for-opencv-with-vs2010/
+http://johnhany.net/tag/vs/
+http://johnhany.net/tag/%e9%85%8d%e7%bd%ae/
+http://johnhany.net/2013/11/university-campus/
+http://johnhany.net/tag/%e6%91%84%e5%bd%b1/
+http://johnhany.net/2013/11/sky-and-clouds/
+http://johnhany.net/2013/11/illusory/
+http://johnhany.net/2013/11/winter-in-northeast/
+http://johnhany.net/2013/11/drawings-in-high-school/
+http://johnhany.net/tag/%e6%89%8b%e7%bb%98/
+http://johnhany.net/tag/%e7%b4%a0%e6%8f%8f/
+http://johnhany.net/2013/11/under-ocean-render-practice/
+http://johnhany.net/page/2/
+http://johnhany.net/2013/11/
+http://johnhany.net/2013/11/random-algorithm-and-performance/#comment-8
+http://johnhany.net/2013/11/random-algorithm-and-performance/#comment-7
+http://johnhany.net/2013/11/random-algorithm-and-performance/#comment-6
+http://johnhany.net/tag/cocos-2d/
+http://johnhany.net/tag/html5-2/
+http://johnhany.net/tag/ps/
+http://johnhany.net/tag/%e4%b8%b4%e6%91%b9/
+http://johnhany.net/tag/%e4%ba%a4%e4%ba%92/
+http://johnhany.net/tag/%e5%99%aa%e5%a3%b0/
+http://johnhany.net/tag/%e5%a3%81%e7%ba%b8/
+http://johnhany.net/tag/%e7%9f%ad%e7%af%87/
+http://johnhany.net/tag/%e9%9a%8f%e6%9c%ba/
+http://johnhany.net/tag/%e9%9a%8f%e7%ac%94/
+executing request http://johnhany.net/tech-article/
+http://johnhany.net/2013/11/cocos2d-html5-sprite-rotation/
+http://johnhany.net/2013/11/2d-noise-image/
+http://johnhany.net/2013/11/random-algorithm-and-performance/
+executing request http://johnhany.net/tech-article/c-cpp/
+executing request http://johnhany.net/tech-article/opengl/
+executing request http://johnhany.net/tech-article/opencv/
+executing request http://johnhany.net/tech-article/android/
+executing request http://johnhany.net/tech-article/html5/
+executing request http://johnhany.net/gallery/
+http://johnhany.net/2013/11/skull-sketch/
+http://johnhany.net/2013/11/skull-model-practice/
+http://johnhany.net/2013/11/m4a1-model-practice/
+http://johnhany.net/gallery/page/2/
+executing request http://johnhany.net/gallery/painting/
+http://johnhany.net/2013/11/call-of-duty-8/
+http://johnhany.net/2013/11/call-of-duty-6/
+http://johnhany.net/2013/11/megatron-in-transformers-3/
+executing request http://johnhany.net/gallery/cg/
+http://johnhany.net/2013/11/j-20-model-practice/
+http://johnhany.net/2013/11/three-wallpapers/
+executing request http://johnhany.net/gallery/photograph/
+executing request http://johnhany.net/essay/
+http://johnhany.net/2013/11/wax-museum/
+http://johnhany.net/2013/11/suicide/
+executing request http://johnhany.net/guestbook/
+executing request http://johnhany.net/about/
+executing request http://johnhany.net/2013/11/dft-based-text-rotation-correction/
+http://johnhany.net/author/john/
+http://johnhany.net/2013/11/dft-based-text-rotation-correction/#comments
+executing request http://johnhany.net/tag/opencv-2/
+executing request http://johnhany.net/tag/%e6%96%87%e6%9c%ac%e5%a4%84%e7%90%86/
+executing request http://johnhany.net/2013/11/sweep-algorithm-for-segments-intersection/
+http://johnhany.net/2013/11/sweep-algorithm-for-segments-intersection/#comments
+executing request http://johnhany.net/tag/opengl-2/
+executing request http://johnhany.net/tag/%e5%9b%be/
+executing request http://johnhany.net/tag/%e7%ae%97%e6%b3%95/
+executing request http://johnhany.net/tag/%e8%ae%a1%e7%ae%97%e5%87%a0%e4%bd%95/
+executing request http://johnhany.net/2013/11/reventon-render-image/
+http://johnhany.net/2013/11/reventon-render-image/#comments
+executing request http://johnhany.net/tag/maya/
+executing request http://johnhany.net/tag/%e5%bb%ba%e6%a8%a1/
+executing request http://johnhany.net/2013/11/environment-for-opencv-with-vs2010/
+http://johnhany.net/2013/11/environment-for-opencv-with-vs2010/#comments
+executing request http://johnhany.net/tag/vs/
+executing request http://johnhany.net/tag/%e9%85%8d%e7%bd%ae/
+executing request http://johnhany.net/2013/11/university-campus/
+http://johnhany.net/2013/11/university-campus/#comments
+executing request http://johnhany.net/tag/%e6%91%84%e5%bd%b1/
+executing request http://johnhany.net/2013/11/sky-and-clouds/
+http://johnhany.net/2013/11/sky-and-clouds/#comments
+executing request http://johnhany.net/2013/11/illusory/
+http://johnhany.net/2013/11/illusory/#comments
+executing request http://johnhany.net/2013/11/winter-in-northeast/
+http://johnhany.net/2013/11/winter-in-northeast/#comments
+executing request http://johnhany.net/2013/11/drawings-in-high-school/
+http://johnhany.net/2013/11/drawings-in-high-school/#comments
+executing request http://johnhany.net/tag/%e6%89%8b%e7%bb%98/
+executing request http://johnhany.net/tag/%e7%b4%a0%e6%8f%8f/
+executing request http://johnhany.net/2013/11/under-ocean-render-practice/
+http://johnhany.net/2013/11/under-ocean-render-practice/#comments
+executing request http://johnhany.net/page/2/
+http://johnhany.net/page/3/
+executing request http://johnhany.net/2013/11/
+http://johnhany.net/2013/
+http://johnhany.net/2013/11/page/2/
+executing request http://johnhany.net/2013/11/random-algorithm-and-performance/#comment-8
+http://johnhany.net/2013/11/random-algorithm-and-performance/#comments
+executing request http://johnhany.net/2013/11/random-algorithm-and-performance/#comment-7
+executing request http://johnhany.net/2013/11/random-algorithm-and-performance/#comment-6
+executing request http://johnhany.net/tag/cocos-2d/
+executing request http://johnhany.net/tag/html5-2/
+executing request http://johnhany.net/tag/ps/
+executing request http://johnhany.net/tag/%e4%b8%b4%e6%91%b9/
+executing request http://johnhany.net/tag/%e4%ba%a4%e4%ba%92/
+executing request http://johnhany.net/tag/%e5%99%aa%e5%a3%b0/
+executing request http://johnhany.net/tag/%e5%a3%81%e7%ba%b8/
+executing request http://johnhany.net/tag/%e7%9f%ad%e7%af%87/
+executing request http://johnhany.net/tag/%e9%9a%8f%e6%9c%ba/
+executing request http://johnhany.net/tag/%e9%9a%8f%e7%ac%94/
+executing request http://johnhany.net/2013/11/cocos2d-html5-sprite-rotation/
+http://johnhany.net/2013/11/cocos2d-html5-sprite-rotation/#comments
+http://johnhany.net/files/jet-sprite-demo/jetspritemouse.html
+executing request http://johnhany.net/2013/11/2d-noise-image/
+http://johnhany.net/2013/11/2d-noise-image/#comments
+executing request http://johnhany.net/2013/11/random-algorithm-and-performance/
+executing request http://johnhany.net/2013/11/skull-sketch/
+http://johnhany.net/2013/11/skull-sketch/#comments
+executing request http://johnhany.net/2013/11/skull-model-practice/
+http://johnhany.net/2013/11/skull-model-practice/#comments
+executing request http://johnhany.net/2013/11/m4a1-model-practice/
+http://johnhany.net/2013/11/m4a1-model-practice/#comments
+executing request http://johnhany.net/gallery/page/2/
+executing request http://johnhany.net/2013/11/call-of-duty-8/
+http://johnhany.net/2013/11/call-of-duty-8/#comments
+executing request http://johnhany.net/2013/11/call-of-duty-6/
+http://johnhany.net/2013/11/call-of-duty-6/#comments
+executing request http://johnhany.net/2013/11/megatron-in-transformers-3/
+http://johnhany.net/2013/11/megatron-in-transformers-3/#comments
+executing request http://johnhany.net/2013/11/j-20-model-practice/
+http://johnhany.net/2013/11/j-20-model-practice/#comments
+executing request http://johnhany.net/2013/11/three-wallpapers/
+http://johnhany.net/2013/11/three-wallpapers/#comments
+executing request http://johnhany.net/2013/11/wax-museum/
+http://johnhany.net/2013/11/wax-museum/#comments
+executing request http://johnhany.net/2013/11/suicide/
+http://johnhany.net/2013/11/suicide/#comments
+executing request http://johnhany.net/author/john/
+http://johnhany.net/author/john/page/2/
+executing request http://johnhany.net/2013/11/dft-based-text-rotation-correction/#comments
+executing request http://johnhany.net/2013/11/sweep-algorithm-for-segments-intersection/#comments
+executing request http://johnhany.net/2013/11/reventon-render-image/#comments
+executing request http://johnhany.net/2013/11/environment-for-opencv-with-vs2010/#comments
+executing request http://johnhany.net/2013/11/university-campus/#comments
+executing request http://johnhany.net/2013/11/sky-and-clouds/#comments
+executing request http://johnhany.net/2013/11/illusory/#comments
+executing request http://johnhany.net/2013/11/winter-in-northeast/#comments
+executing request http://johnhany.net/2013/11/drawings-in-high-school/#comments
+executing request http://johnhany.net/2013/11/under-ocean-render-practice/#comments
+executing request http://johnhany.net/page/3/
+executing request http://johnhany.net/2013/
+http://johnhany.net/2013/page/2/
+executing request http://johnhany.net/2013/11/page/2/
+http://johnhany.net/2013/11/page/3/
+executing request http://johnhany.net/2013/11/random-algorithm-and-performance/#comments
+executing request http://johnhany.net/2013/11/cocos2d-html5-sprite-rotation/#comments
+executing request http://johnhany.net/files/jet-sprite-demo/jetspritemouse.html
+executing request http://johnhany.net/2013/11/2d-noise-image/#comments
+executing request http://johnhany.net/2013/11/skull-sketch/#comments
+executing request http://johnhany.net/2013/11/skull-model-practice/#comments
+executing request http://johnhany.net/2013/11/m4a1-model-practice/#comments
+executing request http://johnhany.net/2013/11/call-of-duty-8/#comments
+executing request http://johnhany.net/2013/11/call-of-duty-6/#comments
+executing request http://johnhany.net/2013/11/megatron-in-transformers-3/#comments
+executing request http://johnhany.net/2013/11/j-20-model-practice/#comments
+executing request http://johnhany.net/2013/11/three-wallpapers/#comments
+executing request http://johnhany.net/2013/11/wax-museum/#comments
+executing request http://johnhany.net/2013/11/suicide/#comments
+executing request http://johnhany.net/author/john/page/2/
+http://johnhany.net/author/john/page/3/
+executing request http://johnhany.net/2013/page/2/
+http://johnhany.net/2013/page/3/
+executing request http://johnhany.net/2013/11/page/3/
+executing request http://johnhany.net/author/john/page/3/
+executing request http://johnhany.net/2013/page/3/
+Done.
+99
