@@ -23,6 +23,8 @@ MySQL Connector/J 5.1.27
 
 http://johnhany.net/2013/11/web-crawler-using-java-and-mysql/
 
+(博客空间是新近开通的，如果访问时出现问题烦请告知，我会想办法解决)
+
 =========
 
 a web crawler for single WordPress site
@@ -44,3 +46,5 @@ Analyzing tags for each article will be added in the next update.
 You can read about this in my blog:
 
 http://johnhany.net/2013/11/web-crawler-using-java-and-mysql/
+
+My blog is new and yet unstable. If you have any problems entering my blog, please notify me:)
