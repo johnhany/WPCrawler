@@ -2,6 +2,7 @@ package net.johnhany.wpcrawler;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
+import java.sql.PreparedStatement;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
@@ -44,6 +45,7 @@ public class crawler {
 		String sql = null;
 		String url = frontpage;
 		Statement stmt = null;
+		PreparedStatement pstmt = null;
 		ResultSet rs = null;
 		int count = 0;
 		
@@ -65,6 +67,10 @@ public class crawler {
 				sql = "create table if not exists tags (tagnum int(4) not null auto_increment, tagname text not null, primary key (tagnum)) engine=InnoDB DEFAULT CHARSET=utf8";
 				stmt = conn.createStatement();
 				stmt.executeUpdate(sql);
+				
+				sql = "INSERT INTO record (URL, crawled) VALUES ('" + frontpage + "',0)";
+            			pstmt = conn.prepareStatement(sql, Statement.RETURN_GENERATED_KEYS);
+            			pstmt.execute();
 			} catch (SQLException e) {
 				e.printStackTrace();
 			}
